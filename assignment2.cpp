@@ -29,7 +29,7 @@ int main(){
 	else if(comvex_cup=='y')
 	cout<<"your mushroom is:PIED BLEU";
 }
-else if(gills!='y'||gills!='n'||forest!='n'||forest!='y'||ring!='n'||ring!='y'){
+else {
 	cout<<"answer must be only either y or n!!\n";
 }
 
